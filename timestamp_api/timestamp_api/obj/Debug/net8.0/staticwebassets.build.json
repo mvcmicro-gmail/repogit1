@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YcN3rhNGuWEv4wP5QsvJWosfzq+mcM6GCs0NfdCASJU=",
+  "Source": "timestamp_api",
+  "BasePath": "_content/timestamp_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
